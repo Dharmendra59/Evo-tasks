@@ -52,7 +52,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     border-radius: 0 0 50% 50%;
-    background-color: #39a6f0;
+    background-color: #f9ea85;
     z-index: -1;
     transition: all 0.3s;
 }
@@ -76,7 +76,7 @@ body {
 .menu-btn {
     width: 2rem;
     cursor: pointer;
-    color: #ffffff;
+    color: #2e2e2e;
 }
 
 .welcome {
@@ -87,11 +87,14 @@ body {
 }
 
 .welcome h1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    color: #2e2e2e;
+
 }
 
 .welcome p {
     font-weight: 500;
+    color: #2e2e2e;
 }
 
 .welcome .img {
@@ -198,7 +201,7 @@ body {
 .category-screen .head-wrapper svg {
     width: 2rem;
     cursor: pointer;
-    color: #fff;
+    color: #2e2e2e;
 }
 
 .category-details {
@@ -337,7 +340,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #39a6f0;
+    background-color: #f9ea85;
     transition: all 0.3s;
 }
 
@@ -353,7 +356,7 @@ body {
 
 .add-task-btn svg {
     width: 2rem;
-    color: #fff;
+    color: #2e2e2e;
 }
 
 .add-task {
@@ -422,8 +425,8 @@ body {
 }
 
 button.add-btn {
-    background-color: #39a6f0;
-    color: #fff
+    background-color: #f9ea85;
+    color: #2e2e2e;
 }
 
 .add-task-backdrop {
